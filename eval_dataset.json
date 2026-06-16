@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why is taking a thorough and accurate medical history from a patient so important for a physician?",
+    "ground_truth": "Taking a thorough and accurate medical history is essential because it is often the most powerful diagnostic tool. It allows the physician to understand the patient's symptoms in context, establishes the doctor-patient relationship, and guides the subsequent physical examination and diagnostic tests."
+  },
+  {
+    "question": "How should a physician balance the patient's clinical history and physical examination with the use of laboratory and imaging tests?",
+    "ground_truth": "A physician should use laboratory and imaging tests to supplement, not replace, a careful clinical history and physical examination. Tests should be ordered judiciously based on hypotheses formed during the initial clinical encounter to confirm or rule out specific diagnoses."
+  },
+  {
+    "question": "What are the main trends in healthcare delivery that impact the modern practice of medicine?",
+    "ground_truth": "Modern healthcare delivery is significantly impacted by trends such as the increasing focus on cost reduction, the rapid integration of advanced technology and electronic health records, and the shift towards evidence-based medicine and standardized care protocols."
+  }
+]

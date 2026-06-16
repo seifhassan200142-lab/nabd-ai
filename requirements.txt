@@ -1,0 +1,30 @@
+# --- Web Framework ---
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# --- LangChain Ecosystem ---
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.43
+langchain-text-splitters==0.2.4
+langchain-groq==0.1.9
+langchain-huggingface==0.0.3
+
+# --- Document Processing & OCR (Ingestion Pipeline) ---
+docling[vlm]==2.5.2
+easyocr==1.7.1
+pillow==10.4.0
+
+# --- Embeddings & Vector DB ---
+sentence-transformers==3.0.1
+transformers==4.44.2
+faiss-cpu==1.8.0
+
+# --- LLM Providers & Core Math ---
+groq==0.11.0
+numpy==1.26.4
+
+# --- Evaluation Framework (RAGAS) ---
+ragas==0.2.0
+datasets==2.20.0
+pandas==2.2.2
