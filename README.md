@@ -1,8 +1,10 @@
 # Nabd AI
 
+
 <p align="center">
-  <img src="assets/nabd-ai-logo.png" alt="Nabd AI Logo" width="180"/>
+  <img src="./assets/nabd-ai-logo.png" alt="Nabd AI Logo" width="180">
 </p>
+
 
 <p align="center">
   <b>Privacy-first localized medical AI for Egyptian hospitals</b><br/>
